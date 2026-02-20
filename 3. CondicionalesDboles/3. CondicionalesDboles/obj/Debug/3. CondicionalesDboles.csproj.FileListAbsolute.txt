@@ -1,0 +1,7 @@
+C:\Jesus\FundamentosProgramacionM\3. CondicionalesDboles\3. CondicionalesDboles\bin\Debug\_3.CondicionalesDboles.exe.config
+C:\Jesus\FundamentosProgramacionM\3. CondicionalesDboles\3. CondicionalesDboles\bin\Debug\_3.CondicionalesDboles.exe
+C:\Jesus\FundamentosProgramacionM\3. CondicionalesDboles\3. CondicionalesDboles\bin\Debug\_3.CondicionalesDboles.pdb
+C:\Jesus\FundamentosProgramacionM\3. CondicionalesDboles\3. CondicionalesDboles\obj\Debug\3. CondicionalesDboles.csproj.AssemblyReference.cache
+C:\Jesus\FundamentosProgramacionM\3. CondicionalesDboles\3. CondicionalesDboles\obj\Debug\3. CondicionalesDboles.csproj.CoreCompileInputs.cache
+C:\Jesus\FundamentosProgramacionM\3. CondicionalesDboles\3. CondicionalesDboles\obj\Debug\_3.CondicionalesDboles.exe
+C:\Jesus\FundamentosProgramacionM\3. CondicionalesDboles\3. CondicionalesDboles\obj\Debug\_3.CondicionalesDboles.pdb
