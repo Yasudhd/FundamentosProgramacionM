@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Diagnostics.Eventing.Reader;
@@ -116,9 +117,117 @@ namespace TallerPreparacionCondicionales
             cumplir para realizar dicha construcción.En caso contrario, decir cuál o cuáles de las
             condiciones no se cumplen.*/
 
-            int CoordenadasX = 0;
+            /*int x1 = 0;
+            int y1 = 0;
+            int x2 = 0;
+            int y2 = 0;
+            int x3 = 0;
+            int y3 = 0;
+            float d1 = 0;// distancia 1
+            float d2 = 0;
+            float d3 = 0;
+            Console.WriteLine("Vamos con el primer punto");
+            Console.WriteLine("Ingresar la coordenada en X");
+            x1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ingresar la  coordenada en y");
+            y1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Vamos con el segundo punto");
+            Console.WriteLine("Ingresar la  coordenada en X");
+            x2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ingresar la  coordenada en X");
+            y2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Vamos con el tercer punto");
+            Console.WriteLine("Ingresar la  coordenada en X");
+            x3 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ingresar la  coordenada en X");
+            y3 = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Ahora veamos las distancias entre los puntos P1 a P2 , P2 a P3 y P1 a P3");
+
+            d1 = (float)Math.Sqrt(Math.Pow(x2- x1, 2)+ Math.Pow(y2- y1, 2));// el (Float) pues lo convierte en float 
+            d2 = (float)Math.Sqrt(Math.Pow(x3 - x2, 2) + Math.Pow(y3 - y2, 2));
+            d3 = (float)Math.Sqrt(Math.Pow(x3 - x1, 2) + Math.Pow(y3 - y1, 2));
+            Console.WriteLine($"La distancia de P1 a P2 es:{d1}, la distancia de P2 a P3 es:{d2} y la distancia de P1 a P3 es:{d3}");
+            //ahora para decidir si  es posible construir un triangulo 
+            if (d1 + d2 > d3 && d1 + d3 > d2 && d2 + d3 > d1)
+            {
+                Console.WriteLine("Se puede formar un triangulo");
+            }
+            else
+            {
+                Console.WriteLine("No se puede formar un triangulo");
+            }*/
+
+            /*El personaje de un juego, solo se puede mover en forma horizontal(Izquierda o Derecha), 
+            crear un programa que muestre en la consola un mensaje diciendo si el personaje se mueve
+            hacia la izquierda o hacia la derecha, según la tecla que se presione en el teclado.
+             Si se ingresa el carácter ‘d’, se muestra el mensaje “El personaje se mueve hacia la
+            derecha
+             Si se ingresa el carácter ‘i’, se muestra el mensaje “El personaje se mueve hacia la derecha
+             En caso contrario, se debe mostrar un mensaje de error “No me puedo mover en otra
+            dirección”*/
+
+            /*char tecla = ' ';
+            Console.WriteLine("Ingresar  el movimiento que desea realizar Izquierda: A o Derecha: D ");
+            tecla = Convert.ToChar(Console.ReadLine().ToLower());
+            switch (tecla)
+            {
+                case 'd':
+                    Console.WriteLine("El personaje se mueve a la derecha");
+                    break;
+                case 'a':
+                    Console.WriteLine("El personaje se mueve a la izquierda");
+                    break;
+                default:
+                    Console.WriteLine("El pesonaje no se mueve hacia esa direccion");
+                    break;
+            }*/
+
+            /*El personaje de un juego, puede realizar diferentes acciones dependiendo del carácter que
+            el usuario ingrese, y de la cantidad de vidas que posee. Crear un programa que permita:
+             Generar un número aleatorio entre 0 y 5 para simular el número de vidas del personaje. 
+            (Función Random)
+             Si el número de vidas es mayor a 0, el personaje puede realizar acciones en el juego.En
+            caso contrario escribir el mensaje “el personaje no posee vidas, y no puede realizar
+            ninguna acción”.*/
+
+            Random random = new Random();
+            int vidas = random.Next(0, 6); // genera entre 0 y 5
+            char accion;
+
+            Console.WriteLine("El personaje tiene: " + vidas + " vidas");
+
+            if (vidas > 0)
+            {
+                Console.WriteLine("Ingrese una accion (a = atacar, s = saltar, d = defender): ");
+                accion = Convert.ToChar(Console.ReadLine());
+
+                if (accion == 'a')
+                {
+                    Console.WriteLine("El personaje ataca");
+                }
+                else if (accion == 's')
+                {
+                    Console.WriteLine("El personaje salta");
+                }
+                else if (accion == 'd')
+                {
+                    Console.WriteLine("El personaje se defiende");
+                }
+                else
+                {
+                    Console.WriteLine("Accion no valida");
+                }
+            }
+            else
+            {
+                Console.WriteLine("El personaje no posee vidas y no puede realizar ninguna accion");
+            }
         }
-        
+
+
+
     }
+
+    
 }
