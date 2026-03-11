@@ -37,7 +37,7 @@ namespace _3.CondicionalesDboles
                 Console.WriteLine("el producto de los dos numeros es:"+ (num1 * num2)+ "\n la division del primero respecto al segundo es:"+ (num1 / num2));
             */
 
-            byte num1 = 0;
+            /*byte num1 = 0;
             Console.WriteLine("Ingresar un numero positivo de 1 o dos digitos");// checar
             num1 =Convert.ToByte( Console.ReadLine());
             if (10 <= num1 && num1<99)
@@ -47,6 +47,20 @@ namespace _3.CondicionalesDboles
             else 
             {
                    Console.WriteLine("tiene un digito");
+            }*/
+            //Escribir un algoritmo que le permita a un usuario ingresar un número entero, y le diga si el número es positivo o negativo.
+
+            int num = 0;
+            Console.WriteLine("Ingrese un numero para detectar si es positivo o negativo");
+            num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(num);
+            if (num < 0)
+            {
+                Console.WriteLine("El numero ingresado es negativo");
+            }
+            else
+            {
+                Console.WriteLine("el numero ingresado es positivo");
             }
         }
 

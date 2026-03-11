@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 <Solution>
   <Project Path="TallerPreparacionCondicionales/TallerPreparacionCondicionales.csproj" />
 </Solution>
+=======
+<Solution>
+  <Project Path="TallerPreparacionCondicionales/TallerPreparacionCondicionales.csproj" Id="b7df2627-2d04-4b2d-a17e-0aab9603dd0b" />
+</Solution>
+>>>>>>> 62ec9502e1fc53a530b9be23704c5dd0eaa195a8
