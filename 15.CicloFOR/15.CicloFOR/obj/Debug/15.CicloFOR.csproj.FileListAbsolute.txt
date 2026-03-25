@@ -1,0 +1,7 @@
+C:\Jesus\FundamentosProgramacionM\15.CicloFOR\15.CicloFOR\bin\Debug\15.CicloFOR.exe.config
+C:\Jesus\FundamentosProgramacionM\15.CicloFOR\15.CicloFOR\bin\Debug\15.CicloFOR.exe
+C:\Jesus\FundamentosProgramacionM\15.CicloFOR\15.CicloFOR\bin\Debug\15.CicloFOR.pdb
+C:\Jesus\FundamentosProgramacionM\15.CicloFOR\15.CicloFOR\obj\Debug\15.CicloFOR.csproj.AssemblyReference.cache
+C:\Jesus\FundamentosProgramacionM\15.CicloFOR\15.CicloFOR\obj\Debug\15.CicloFOR.csproj.CoreCompileInputs.cache
+C:\Jesus\FundamentosProgramacionM\15.CicloFOR\15.CicloFOR\obj\Debug\15.CicloFOR.exe
+C:\Jesus\FundamentosProgramacionM\15.CicloFOR\15.CicloFOR\obj\Debug\15.CicloFOR.pdb
