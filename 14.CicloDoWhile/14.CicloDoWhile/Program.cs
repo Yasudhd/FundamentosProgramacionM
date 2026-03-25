@@ -93,26 +93,49 @@ namespace _14.CicloDoWhile
                     }
                 }
             } while (operacion != "salir");*/
-            int Cd = 0;
-            int num = 0;
-            int contadorNumero = 1;
-            int acumulador = 0;
-            Console.WriteLine("Ingresar cuantos numeros desee para determinar cuantos son pares e impares y al finalizar se le calculara un promedio. (Debe escribir finalizar)");
+            int numero = 0;
+            int pares = 0;
+            int impares = 0;
+            int suma = 0;
+            int contador = 0;
+            string continuar = "";
+
             do
             {
-                do
+                Console.Write("Ingrese un número: ");
+                numero = Convert.ToInt32(Console.ReadLine());
+
+                if (numero % 2 == 0)
                 {
-                    Console.WriteLine($"Ingresar numero:{contadorNumero}");
-                    num = Convert.ToInt32(Console.ReadLine());
-                    contadorNumero++;
-                    acumulador = num + acumulador;
-                    Cd = Convert.ToInt32(Console.ReadLine());
-                } while (Cd <= 5);
+                    pares++;
+                }
+                else
+                {
+                    impares++;
+                }
 
 
+                suma += numero;
+                contador++;
 
-            } while (Cd != 0);
+                Console.Write("¿Desea continuar? (si/no): ");
+                continuar = Console.ReadLine().ToLower();
 
+            } while (continuar == "si");
+
+ 
+            if (contador > 0)
+            {
+                float promedio = suma / contador;
+
+                Console.WriteLine("Cantidad de pares: " + pares);
+                Console.WriteLine("Cantidad de impares: " + impares);
+                Console.WriteLine("Promedio: " + promedio);
+            }
+            else
+            {
+                Console.WriteLine("No se ingresaron números.");
+            }
 
         }
     }
