@@ -1,0 +1,7 @@
+C:\Jesus\FundamentosProgramacionM\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.exe.config
+C:\Jesus\FundamentosProgramacionM\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.exe
+C:\Jesus\FundamentosProgramacionM\TallerCiclos\TallerCiclos\bin\Debug\TallerCiclos.pdb
+C:\Jesus\FundamentosProgramacionM\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.csproj.AssemblyReference.cache
+C:\Jesus\FundamentosProgramacionM\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.csproj.CoreCompileInputs.cache
+C:\Jesus\FundamentosProgramacionM\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.exe
+C:\Jesus\FundamentosProgramacionM\TallerCiclos\TallerCiclos\obj\Debug\TallerCiclos.pdb
