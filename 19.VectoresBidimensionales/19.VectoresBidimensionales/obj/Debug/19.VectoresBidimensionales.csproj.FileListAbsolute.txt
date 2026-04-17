@@ -1,0 +1,7 @@
+C:\Jesus\FundamentosProgramacionM\19.VectoresBidimensionales\19.VectoresBidimensionales\bin\Debug\19.VectoresBidimensionales.exe.config
+C:\Jesus\FundamentosProgramacionM\19.VectoresBidimensionales\19.VectoresBidimensionales\bin\Debug\19.VectoresBidimensionales.exe
+C:\Jesus\FundamentosProgramacionM\19.VectoresBidimensionales\19.VectoresBidimensionales\bin\Debug\19.VectoresBidimensionales.pdb
+C:\Jesus\FundamentosProgramacionM\19.VectoresBidimensionales\19.VectoresBidimensionales\obj\Debug\19.VectoresBidimensionales.csproj.AssemblyReference.cache
+C:\Jesus\FundamentosProgramacionM\19.VectoresBidimensionales\19.VectoresBidimensionales\obj\Debug\19.VectoresBidimensionales.csproj.CoreCompileInputs.cache
+C:\Jesus\FundamentosProgramacionM\19.VectoresBidimensionales\19.VectoresBidimensionales\obj\Debug\19.VectoresBidimensionales.exe
+C:\Jesus\FundamentosProgramacionM\19.VectoresBidimensionales\19.VectoresBidimensionales\obj\Debug\19.VectoresBidimensionales.pdb
