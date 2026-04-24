@@ -1,0 +1,7 @@
+C:\Jesus\FundamentosProgramacionProv\22.ProgramacionMdlarEjercicio1\bin\Debug\22.ProgramacionMdlarEjercicio1.exe.config
+C:\Jesus\FundamentosProgramacionProv\22.ProgramacionMdlarEjercicio1\bin\Debug\22.ProgramacionMdlarEjercicio1.exe
+C:\Jesus\FundamentosProgramacionProv\22.ProgramacionMdlarEjercicio1\bin\Debug\22.ProgramacionMdlarEjercicio1.pdb
+C:\Jesus\FundamentosProgramacionProv\22.ProgramacionMdlarEjercicio1\obj\Debug\22.ProgramacionMdlarEjercicio1.csproj.AssemblyReference.cache
+C:\Jesus\FundamentosProgramacionProv\22.ProgramacionMdlarEjercicio1\obj\Debug\22.ProgramacionMdlarEjercicio1.csproj.CoreCompileInputs.cache
+C:\Jesus\FundamentosProgramacionProv\22.ProgramacionMdlarEjercicio1\obj\Debug\22.ProgramacionMdlarEjercicio1.exe
+C:\Jesus\FundamentosProgramacionProv\22.ProgramacionMdlarEjercicio1\obj\Debug\22.ProgramacionMdlarEjercicio1.pdb
