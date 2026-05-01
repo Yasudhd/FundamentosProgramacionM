@@ -1,0 +1,7 @@
+C:\Jesus\FundamentosProgramacionM\tallerVectores#1\tallerVectores#1\bin\Debug\tallerVectores#1.exe.config
+C:\Jesus\FundamentosProgramacionM\tallerVectores#1\tallerVectores#1\bin\Debug\tallerVectores#1.exe
+C:\Jesus\FundamentosProgramacionM\tallerVectores#1\tallerVectores#1\bin\Debug\tallerVectores#1.pdb
+C:\Jesus\FundamentosProgramacionM\tallerVectores#1\tallerVectores#1\obj\Debug\tallerVectores#1.csproj.AssemblyReference.cache
+C:\Jesus\FundamentosProgramacionM\tallerVectores#1\tallerVectores#1\obj\Debug\tallerVectores#1.csproj.CoreCompileInputs.cache
+C:\Jesus\FundamentosProgramacionM\tallerVectores#1\tallerVectores#1\obj\Debug\tallerVectores#1.exe
+C:\Jesus\FundamentosProgramacionM\tallerVectores#1\tallerVectores#1\obj\Debug\tallerVectores#1.pdb
